@@ -5,3 +5,9 @@ echo "This is a feature branch"
 echo "now i will merge with master"
 
 echo "Pull request "
+
+echo "editing from merge conflict"
+
+echo "now i will merge with master"     
+
+echo "pull request"

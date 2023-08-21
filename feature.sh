@@ -2,4 +2,6 @@
 
 echo "This is a feature branch"
 
-echo "now i will merge with master"
+echo "this edited master branch"
+
+echo "now i will merge with master"     

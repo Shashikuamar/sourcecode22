@@ -2,6 +2,6 @@
 
 echo "This is a feature branch"
 
-echo "this edited master branch"
+echo "editing from merge conflict"
 
 echo "now i will merge with master"     

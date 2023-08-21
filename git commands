@@ -504,3 +504,507 @@
   587  git commit -m"modified first.py"
   588  git push origin master
   589  history
+140  git remote -h
+  141  git remote add origin master git@github.com:Shashikuamar/kkk.git
+  142  git remote add origin git@github.com:Shashikuamar/kkk.git
+  143  git status
+  144  git remote -v
+  145  git push origin master
+  146  git push origin master
+  147  ssh-keygen -t ed25519 -C "your_email@example.com"
+  148  ssh-keygen -t ed25519 -C "your_email@example.com"
+  149  eval "$(ssh-agent -s)"
+  150  ssh-add ~/.ssh/id_rsa
+  151  ssh-keygen -t ed25519 -C "your_email@example.com"
+  152  git -v
+  153  git remote set-url origin <new_url>
+  154  git remote set-url origin <new_url>
+  155  git remote set-url origin git@github.com:Shashikuamar/kkk.git
+  156  git config --get remote.origin.url
+  157  git config remote.origin.url git@github.com:<username>/<repository>.git
+  158  git config remote.origin.url git@github.com:<Shashikumar>/<kkk>.git
+  159  git config remote.origin.url git@github.com:<Shashikuamar>/<kkk>.git
+  160  git config remote.origin.url git@github.com:Shashikuamar/kkk.git
+  161  git push origin master
+  162  git remote add kkk master https://github.com/Shashikuamar/kkk.git~
+  163  git remote add kkk https://github.com/Shashikuamar/kkk.git
+  164  git push origin master
+  165  git config --global --list
+  166  git config --global user.email "you@example.com"
+  167  git config --global user.email "Shashikuamar"
+  168  git config
+  169  git config --global
+  170  git config --global user.email "shashikumarmandya7026.com"
+  171  git config --global user.name "shashikuamar"
+  172  git config --global --list
+  173  git push origin master
+  174  git config --global --list
+  175  git config --global user.email "shashikumarmandya7026@gmail.com"
+  176  git config --global --list
+  177  git push origin master
+  178  git login
+  179  git clone
+  180  git clone https://github.com/Shashikuamar/kkk.git
+  181  ls
+  182  cd kkk/
+  183  ls
+  184  git init
+  185  git status
+  186  vi xxx
+  187  ls
+  188  git add .
+  189  git status
+  190  git commit -m"kumar"u
+  191  git status
+  192  git push
+  193  git push
+  194  clear
+  195  cd -
+  196  git branch
+  197  git branch shashi
+  198  git branch
+  199  git checkout
+  200  git checkout shashi
+  201  git checkout master
+  202  cd ..
+  203  cd ..
+  204  ls
+  205  git clone
+  206  git clone https://github.com/Shashikuamar/chetan.git
+  207  clear
+  208  ls
+  209  clear
+  210  mkdir shashi
+  211  ls
+  212  mkdir sss
+  213  sudo mkdir shashi
+  214  sudo _i mkdir shashi
+  215  mkdir shashi
+  216  cd -
+  217  ls
+  218  cd ..
+  219  cd desktop
+  220  ls
+  221  cd ..
+  222  cd ..
+  223  cd ..
+  224  ls
+  225  cd onedrive
+  226  clear
+  227  cd
+  228  ls
+  229  cd /OneDrive/Desktop
+  230  cd OneDrive/desktop
+  231  ls
+  232  clear
+  233  git clone https://github.com/Shashikuamar/chetan.git
+  234  ls
+  235  cd chetan/
+  236  clear
+  237  ls
+  238  vi README.md
+  239  git status
+  240  git commit -m "shashi yyyy"
+  241  git add .
+  242  git status
+  243  git commit -m "shashi yyyy"
+  244  ls
+  245  git push
+  246  git branch sussu
+  247  git branch
+  248  git checkout sussu
+  249  git status
+  250  git add .
+  251  git status
+  252  git push --all
+  253  git branch dagar
+  254  git branch
+  255  git checkout master
+  256  git branch
+  257  git checkout
+  258  git checkout shashi
+  259  git branch shashi
+  260  git branch
+  261  git checkout shashi
+  262  branch -d sussu
+  263  git branch -d sussu
+  264  git branch -d dagar
+  265  git branch shashi
+  266  git branch master
+  267  git checkout shashi
+  268  git checkout master
+  269  git --h
+  270  git -h
+  271  git remote -h
+  272  vim radmi
+  273  ls
+  274  git rm radmi
+  275  rm radmi
+  276  ls
+  277  cd kkk
+  278  cd..
+  279  cd ..
+  280  cd ../../
+  281  cd kkk
+  282  cd /kkk
+  283  cd
+  284  cd c
+  285  cd /c
+  286  cd kkk
+  287  ls
+  288  cd ..
+  289  git clone https://github.com/Shashikuamar/kkk.git
+  290  cd -
+  291  git remote -h
+  292  git remote add origin master git@github.com:Shashikuamar/kkk.git
+  293  git remote add origin git@github.com:Shashikuamar/kkk.git
+  294  git remote add origin git@github.com:Shashikuamar/kkk.git
+  295  git status
+  296  git add .
+  297  git status
+  298  git push origin master
+  299  exit
+  300  python --vesion
+  301  python3 first.py
+  302  python3 first.py
+  303  python --vesion
+  304  python -h
+  305  python3 first.py
+  306  exit
+  307  cd Downloads/
+  308  ls
+  309  ls -l
+  310  exit
+  311  ls
+  312  ls -l
+  313  chmod +x first.sh
+  314  ls -l
+  315  bash first.sh
+  316  cd ..
+  317  rm SourceCode/
+  318  rm SourceCode/
+  319  exit
+  320  exit
+  321  cd /c/sourcecode22/
+  322  ls
+  323  git  --help
+  324  git ---help
+  325  git -v
+  326  git --vesrsion
+  327  git status
+  328  git init
+  329  cd .git
+  330  ls
+  331  ls -l
+  332  cd ..
+  333  cd ..
+  334  ls
+  335  cd ProgramData/
+  336  ls
+  337  git status
+  338  cd .git
+  339  cd ..
+  340  cd sourcecode22/
+  341  git status
+  342  git add first.sh
+  343  git status
+  344  git commit -m"my first shell script"
+  345  git status
+  346  git status
+  347  git add first.sh
+  348  git status
+  349  git commit -m"i have solved the issue on line #15"
+  350  git status
+  351  git add second.sh
+  352  git commit -m"added second.sh"
+  353  git log
+  354  git --help
+  355  cd .git/
+  356  ls
+  357  cat HEAD
+  358  cd refs/heads/
+  359  LSLSSLL
+  360  LS
+  361  ls
+  362  ls -l
+  363  cat master
+  364  cd ..
+  365  cd ..
+  366  cd ..
+  367  cd -
+  368  ls -l
+  369  cat index
+  370  ls -l
+  371  cd ..
+  372  git status
+  373  git status
+  374  git add .
+  375  git commit -m"deleted second.sh and added first.py"
+  376  git status
+  377  git --h
+  378  git -h
+  379  git remote -h
+  380  cd ..
+  381  git clone https://github.com/Shashikuamar/sourcecode22.git
+  382  cd -
+  383  git remote -h
+  384  git remote add origin master git@github.com:Shashikuamar/sourcecode22.git
+  385  git remote add origin git@github.com:Shashikuamar/sourcecode22.git
+  386  git status
+  387  git remote -v
+  388  git push origin master
+  389  git push
+  390   git push --set-upstream origin master
+  391  push.autoSetupRemote' in 'git help config'
+  392  push.autoSetupRemote' in 'git help config'
+  393  git help config
+  394  push.autoSetupRemote
+  395  git push
+  396  git config --global push.default current
+  397  git push origin master
+  398  ssh-keygen -t rsa
+  399  git status
+  400  git add .
+  401  git commit -m"added one more line in first.py"
+  402  git push
+  403  git push origin master
+  404  ssh-keygen -t rsa
+  405  cat/c/Users/shash/.ssh/id_rsa.pub
+  406  cat /c/Users/shash/.ssh/id_rsa.pub
+  407  git push origin master
+  408  git status
+  409  git commit -m"modified first.py"
+  410  git push origin master
+  411  history
+  412  historty
+  413  ld
+  414  cd /c/sourcecode22/
+  415  ls
+  416  python first.py
+  417  bash
+  418  bash first.sh
+  419  git status
+  420  git branch
+  421  ls
+  422  git pull
+  423   git status
+  424   git status
+  425  git add .
+  426  git commit -m"modified first.py"
+  427  git status
+  428  git push origin master
+  429  ls
+  430  git fetch
+  431  git status
+  432  ls
+  433  git merge
+  434  git merge master
+  435  ls
+  436  git fetch
+  437  git merge origin
+  438  git merge origin master
+  439  git merge -h
+  440  git branch
+  441  git pull
+  442  git pull origin master
+  443  git branch
+  444  git pull origin main
+  445  git branch
+  446  git checkout main
+  447  git pull origin main
+  448  ls
+  449  git branch
+  450  git checkout main
+  451   ls
+  452  git checkout master
+  453  ls
+  454  git branch feature
+  455  git branch
+  456  git checkout -b hotfix
+  457  ls
+  458  git checkout feature
+  459  ls
+  460  git status
+  461  git add .
+  462  git commit -m"feature is added"
+  463  git status
+  464  ls
+  465  git checout master
+  466  git chekout master
+  467  git checkout master
+  468  ls
+  469   git checkout feature
+  470  git chekout master
+  471  git checkout master
+  472  git status
+  473  git add .
+  474  git commit -m"merging frm feature to master"
+  475  git log
+  476  git checkout master
+  477  git merge feature
+  478  ls
+  479  git status
+  480  git log
+  481  git checkout -b merge-conflict
+  482  ls
+  483  git status
+  484  git add feature.sh
+  485  git commit -m"modifiede first.sh"
+  486  git status
+  487  ls
+  488  git checkout master
+  489  git add feature.sh
+  490  git commit -m"modifiede first.sh from master"
+  491  git merge merge-conflict
+  492  cd /c/sourcecode22/
+  493  history
+  494  ls
+  495  git add feature.sh
+  496  git commit -m"modifiede feature.sh from master"
+  497  git merge merge-conflict
+  498  git status
+  499  git merge merge-conflict
+  500  ls
+  501   git status
+  502  git add.
+  503  git add .
+  504  git commit _m"solved the merge-conflict"
+  505   git status
+  506   git status
+  507  cat feature.sh
+  508  git status
+  509  git add .
+  510  git commit -m"merging fromn feature to master"
+  511  git log
+  512  git check out -b merge-conflict
+  513  git checkout -b merge-conflict
+  514  ls
+  515  git status
+  516  git merge feature
+  517  git status
+  518  git add feature.sh
+  519  git commit - m"modified feature.sh"
+  520  git merge merge-conflict
+  521  git status
+  522  git commit -m""solved merge-conflict
+  523  ls
+  524  cat feature.sh
+  525  git chekout feature
+  526  git checkout feature
+  527  ls
+  528  git git add.
+  529  git add .
+  530  git commit -m"modified first.sh"
+  531  ls
+  532   git status
+  533  git add .
+  534  git commit -m"modified first.sh"
+  535  git push origin master
+  536  git checkout feature
+  537  ls
+  538  git status
+  539  git add .
+  540  git status
+  541  git add .
+  542  git commit -m"modified feture.sh"
+  543  git push origin master
+  544  git push origin feature
+  545   ls
+  546  git branch rebase
+  547  git checkout rebase
+  548  ls
+  549  git status
+  550  git add feature.sh
+  551  git commit -m"rebase branch rebase to main"
+  552  git status
+  553  git checkout main
+  554  ls
+  555  git rebase rebase
+  556  git log
+  557  q
+  558  git log --oneline
+  559  git status
+  560  git pull
+  561  ls
+  562  git status
+  563  git pull origin main
+  564  git status
+  565  git log --online
+  566  git log --oneline
+  567  git checkout master
+  568  ls
+  569  git log --oneline
+  570  git checkout -b test
+  571  ls
+  572  git log --oneline
+  573  git status
+  574  git log --oneline
+  575  git checkout master
+  576  git checkout test
+  577  git add stash
+  578  git checkout master
+  579  git stash -h
+  580  git stash list
+  581  git stash show
+  582  ls
+  583  git checkout master
+  584  git checkout test
+  585  git stash -h
+  586  git stash list
+  587  git stash show
+  588  ls
+  589  hit checkout master
+  590  git checkout master
+  591  git stash list
+  592  git stash
+  593  git stash list
+  594  git checkout master
+  595  git checkout test
+  596  git stash
+  597  git stash list
+  598  git stash show
+  599  ls
+  600  git stash show
+  601  git stash -h
+  602  git stash apply
+  603  git status
+  604  git stash show
+  605  git stash pop
+  606  git stash list
+  607  git stash show
+  608   git status
+  609  git checkout master
+  610  git checkout test
+  611  git stash show
+  612  gir stash
+  613  git stash
+  614  git stash list
+  615  git stash pop
+  616  git stash
+  617  git status
+  618  git status pop
+  619  git status
+  620  git stash -h
+  621  git stash apply
+  622  git stash pop
+  623  git status
+  624  git satash apply
+  625  git stash apply
+  626  git checkout master
+  627  git stash list
+  628  git stash
+  629  git stash list
+  630  git checkout test
+  631  git stash list
+  632  git stash
+  633  git stash list
+  634  git stash clear
+  635  git checkout master
+  636  git checkout test
+  637  ls
+  638   git stash -h
+  639  history
+
+shash@INBOOK_X1_NEO MINGW64 /c/sourcecode22 (test)
+$
+
